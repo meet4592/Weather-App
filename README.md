@@ -1,5 +1,6 @@
 # Weather-app
 This is a weather application that provides real-time weather information for a given location. The app is built using modern web technologies, including HTML, CSS, and JavaScript, and it utilizes a public weather API to fetch weather data.
+
 Features
 Current Weather: The app displays the current weather conditions, including temperature, humidity, wind speed, and weather description, for the user's current location or any specified location.
 
